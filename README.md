@@ -1,14 +1,12 @@
 # consupport - консольный помощник ввода и вывода #
 
-## Изучите документацию проекта ##
+## Документация проекта ##
 
-[consupport.h документация](https://github.com/asmazovec/consupport/blob/master/consupport.md)
-
+[consupport.h](https://github.com/asmazovec/consupport/blob/master/consupport.md)
  
 ## Примеры использования функций ##
 
-- [В документации
-consupport.h](https://github.com/asmazovec/consupport/blob/master/consupport.md)
+- [В документации consupport.h](https://github.com/asmazovec/consupport/blob/master/consupport.md)
 - [В демонстрационной программе]() `./samples/main.c`.
 
 ---
